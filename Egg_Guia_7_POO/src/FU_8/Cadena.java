@@ -34,12 +34,12 @@ public class Cadena {
         this.longitud = longitud;
     }
     
-    public Cadena mostrarVocales(Cadena mostrar){
+    /*public Cadena mostrarVocales(Cadena mostrar){
         int vocal = 0;
         for (int i = 0; i < mostrar.getLongitud(); i++) {
             if (mostrar.getFrase().charAt(i)) {
                 
             }
         }
-    }
+    }*/
 }
